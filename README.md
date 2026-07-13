@@ -1,7 +1,7 @@
 # Random Number Generator but Hardware!
 Submission to outpost
 ![Breadboard](timer_photo.png)
-![model](Epic Turg-Blorr.png)
+![model](tinker_model.png)
 \n For this project, I wanted to create a d8 that I could use when i played board games. I used a 7 segment display to show a random number from 0-7. Although it's a little too big for dnd I'm really happy with how it turned out.
 
 ## Parts Used
